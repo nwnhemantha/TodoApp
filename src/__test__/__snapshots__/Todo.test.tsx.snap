@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render the Button component correctly 1`] = `
+<button
+  className="ant-btn"
+  onClick={[Function]}
+  type="button"
+>
+  <span>
+    Add
+  </span>
+</button>
+`;
+
+exports[`Render the InputField component correctly 1`] = `
+<input
+  className="ant-input"
+  onBlur={[Function]}
+  onChange={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  placeholder="add your task here ..."
+  type="text"
+  value=""
+/>
+`;
+
+exports[`Render the TodoItem component correctly 1`] = `
+<li
+  className="ant-list-item"
+>
+  <div
+    className="ant-list-item-meta"
+  >
+    
+  </div>
+  <div>
+    <button
+      className="ant-btn ant-btn-sm"
+      onClick={[Function]}
+      type="button"
+    >
+      <span>
+        Done
+      </span>
+    </button>
+  </div>
+  <div>
+    <button
+      className="ant-btn ml-2 ant-btn-sm ant-btn-dangerous"
+      onClick={[Function]}
+      type="button"
+    >
+      <span>
+        X
+      </span>
+    </button>
+  </div>
+</li>
+`;
+
+exports[`Render the TodoLIst component correctly 1`] = `
+<li
+  className="ant-list-item"
+>
+  <div
+    className="ant-list-item-meta"
+  >
+    
+  </div>
+  <div>
+    <button
+      className="ant-btn ant-btn-sm"
+      onClick={[Function]}
+      type="button"
+    >
+      <span>
+        Done
+      </span>
+    </button>
+  </div>
+  <div>
+    <button
+      className="ant-btn ml-2 ant-btn-sm ant-btn-dangerous"
+      onClick={[Function]}
+      type="button"
+    >
+      <span>
+        X
+      </span>
+    </button>
+  </div>
+</li>
+`;
